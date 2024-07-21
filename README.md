@@ -2,8 +2,8 @@
 
 You can follow along the entire development of this project <a href="https://www.youtube.com/watch?v=ZBCUegTZF7M" target="_blank">here</a>
 
-![e6d38f6d-a5f4-4814-ae66-1475bbbc19bf](https://github.com/user-attachments/assets/9413a6d8-5286-4bc6-9a14-59d1ace96acc)
-![b97839f4-eb04-46d8-9e36-16f065575c1a](https://github.com/user-attachments/assets/5bf7f2c1-23ee-4703-bb54-4f54622f1525)
-![49975064-031a-400d-855f-68b17a1ec94c](https://github.com/user-attachments/assets/d0fd63db-1999-4fa8-83c9-618d89d1327b)
-![b1440d95-f6f3-4165-906a-476c1f54d2f1](https://github.com/user-attachments/assets/ae746e1b-4a26-4246-a1cd-aceb797c751d)
-![65ca405c-22bf-4721-9b99-7a2782839e40](https://github.com/user-attachments/assets/f6d1959a-6eb9-49a6-8979-2d8dc55de037)
+![666f66d4-429e-4ad6-97f9-64c727edbb41](https://github.com/user-attachments/assets/98fd54b3-7626-433b-af61-90345964f9e1)
+![8a749fbf-d043-446d-9e62-7a826a259875](https://github.com/user-attachments/assets/e4ed8d15-071f-43bf-9831-94eaee952ab8)
+![8300f1a9-c371-45f8-bfa8-5794c0b14cf0](https://github.com/user-attachments/assets/93d42acb-63fc-4c75-8f5d-738f63894a1f)
+![15b45332-73a9-43e6-98f2-c657da38e56e](https://github.com/user-attachments/assets/f7341f8a-44e2-4371-b6f2-dd7286fc21c3)
+![244ae3c6-3a98-4927-bccd-7027c98ef729](https://github.com/user-attachments/assets/ded6ff95-ed45-4859-8cab-b85196e1d490)
